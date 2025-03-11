@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently studing
+I'm a full-stack developer with a real passion for challenges. For me, every project is an opportunity to evolve my skills and gain knowledge. I work with React, Node.js (Express), Spring Boot, MySQL, among other technologies, always looking for new ways to improve my skills and deliver increasingly efficient solutions.
+I love diving into complex problems, exploring creative paths and I'm not afraid to make mistakes - every mistake is just another step in the right direction. My goal is to constantly grow and make a significant contribution in dedicated teams.
 
 
 ## 🌐 Socials:
@@ -17,9 +18,6 @@ I'm currently studing
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=murilobonow1612&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=murilobonow1612&icon=0&color=0)](https://visitcount.itsvg.in)
